@@ -19,15 +19,15 @@ https://www.satori.com/opendata/channels/Meetup-RSVP
 ## Research Questions To Answer
 
 1. Phase1
-location - Popular locations for meetups
-Interests - Trending meetup groups
++ location - Popular locations for meetups
++ Interests - Trending meetup groups
 
 2. Phase2
-Demographics
-Sentiment analysis
++ Demographics
++ Sentiment analysis
 
 3. Phase3
-Relationship with other datsets
++ Relationship with other datsets
 
 #### Usecases
 1. Patterns with each event
