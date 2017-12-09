@@ -1,18 +1,18 @@
 # Overview
 
-**Project :**
+**Project** :  
 How socio-economic factors are influencing on how people socialize
 
-**Team Name : **  
+**Team Name** :   
 Data Analytics Meetup News(D.A.M.N)
 
-**Team : **  
+**Team** :   
 * Subhashini Chodavarapu
 * James Briley
 * Antonio Kufoy
 * Asela Dassanayake
 
-**Outline : **  
+**Outline** :   
 1. Research question
 2. Notebooks used for the analysis 
 3. Conclusion
