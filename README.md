@@ -14,15 +14,21 @@ Data Analytics Meetup News(D.A.M.N)
 
 **Outline** :   
 1. Research question
-2. Notebooks used for the analysis 
-3. Conclusion
+2. Data sources used
+3. Notebooks used for the analysis 
+4. Conclusion
 
 ## 1. Research question
 
 A social atmosphere provides a relaxed, informal environment where people can connect, share ideas, and form collaborations. This project attempts to synthesize as to how social economic factors are influencing how people socialize. Socio-economic factors are lifestyle components and measurements of both financial viability and social standing. Factors such as health status, income, environment and education are studied by sociologists in terms of how they each affect human behaviors and circumstances.
 
+## 2. Data sources used
 
-## 2. Notebooks used for the analysis
+Socializing : https://www.meetup.com/meetup_api/
+Cenus :https://factfinder.census.gov/
+Tempreature : https://openweathermap.org/api
+
+## 3. Notebooks used for the analysis
 
 1. 1_census_table.ipynb  
 This notebook constructs the summary table using census data collected. we have used ZCTAs(ZIP Code Tabulation Areas) to gather certain socio-economic indicators (Household income, Median age, Race, Education)
@@ -46,4 +52,4 @@ This notebook visualizes and statisically test the association between the type 
 7. 5_meetup_events.ipynb  
 This notebook uses the open events end-point to gather event data for each of the ZCTA in the sample of ZCTAs(using lat and long of the ZCTA) . It takes only a sample of 1000 events and uses the group end-point to gather the meetup category for each event using the group-id of the events. Then a factor plot is drawn to visualize the distribution of events by day of the week for each category.
 
-## 3. Conclusion
+## 4. Conclusion
