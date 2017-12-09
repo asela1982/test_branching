@@ -1,0 +1,13 @@
+<query schema-version="1.0" lang="en" type="table" sig="ACImj2D1j_C1cwN9Om9FvSL_C-k">
+  <product program-id="ACS" dataset-id="15_5YR" table-id="B01003"/>
+  <selection>
+    <dimension type="geo" vintage="2015">
+      <cat-id>0100000US.86000</cat-id>
+    </dimension>
+  </selection>
+  <data-config>
+    <dimension id="ESTIMATE">
+      <cat-id>HD01</cat-id>
+    </dimension>
+  </data-config>
+</query>

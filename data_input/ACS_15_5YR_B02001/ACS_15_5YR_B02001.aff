@@ -1,0 +1,19 @@
+<query schema-version="1.0" lang="en" type="table" sig="mcJqcz7dlkD7_yIR2cEI8nuP-_k">
+  <product program-id="ACS" dataset-id="15_5YR" table-id="B02001"/>
+  <selection>
+    <dimension type="geo" vintage="2015">
+      <cat-id>0100000US.86000</cat-id>
+    </dimension>
+  </selection>
+  <data-config>
+    <dimension id="ESTIMATE">
+      <cat-id>HD01</cat-id>
+    </dimension>
+    <axis name="V">
+      <dim-id>VDIM</dim-id>
+      <collapse>
+        <cat-id>VD08</cat-id>
+      </collapse>
+    </axis>
+  </data-config>
+</query>
