@@ -24,9 +24,9 @@ A social atmosphere provides a relaxed, informal environment where people can co
 
 ## 2. Data sources used
 
-Socializing : https://www.meetup.com/meetup_api/
-Cenus :https://factfinder.census.gov/
-Tempreature : https://openweathermap.org/api
+Socializing : https://www.meetup.com/meetup_api/  
+Cenus :https://factfinder.census.gov/  
+Tempreature : https://openweathermap.org/api  
 
 ## 3. Notebooks used for the analysis
 
