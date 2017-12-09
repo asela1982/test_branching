@@ -54,5 +54,8 @@ This notebook uses the open events end-point to gather event data for each of th
 
 9. 7_Events_Comments_Requests.ipynb
    This notebook uses the events-comment end point to gather the comments made on each event. The comments about each event was then        analyzed using Vader Sentiment Analysis. The overall sentiments seems to be varying from neutral to positive for the events.
+
+10. 6d_data_enrichment_and_final_plots.ipynb
+    This notebook started off with the census data and added meetup data for venues. Then used the OpenWeatherAPI to add temperature         data for each location. Lastly, this data was used to plot venue rating and temperature against number of MeetUp members.
    
 ## 4. Conclusion
