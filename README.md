@@ -52,4 +52,7 @@ This notebook visualizes and statisically test the association between the type 
 7. 5_meetup_events.ipynb  
 This notebook uses the open events end-point to gather event data for each of the ZCTA in the sample of ZCTAs(using lat and long of the ZCTA) . It takes only a sample of 1000 events and uses the group end-point to gather the meetup category for each event using the group-id of the events. Then a factor plot is drawn to visualize the distribution of events by day of the week for each category.
 
+9. 7_Events_Comments_Requests.ipynb
+   This notebook uses the events-comment end point to gather the comments made on each event. The comments about each event was then        analyzed using Vader Sentiment Analysis. The overall sentiments seems to be varying from neutral to positive for the events.
+   
 ## 4. Conclusion
