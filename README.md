@@ -59,3 +59,6 @@ This notebook uses the open events end-point to gather event data for each of th
     This notebook started off with the census data and added meetup data for venues. Then used the OpenWeatherAPI to add temperature         data for each location. Lastly, this data was used to plot venue rating and temperature against number of MeetUp members.
    
 ## 4. Conclusion
+
+Based on the statistical tests, we can see there is an association between socio economic factors and socialzing. Further, we also gathered location based preference on socializing aswell as time based preference(by looking at the most popular days for certain types of socializing). Based on the insights found, We would evenutally want to build a web application to recommend ways in which individuals could socialize based on their current certain social economic status. 
+
